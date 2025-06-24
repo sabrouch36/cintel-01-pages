@@ -21,3 +21,4 @@ Use a dash space for unordered lists
 - Spelling matters
 
 - Capitalization matters
+![Data Analyst](data-analyst.png)
