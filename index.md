@@ -11,7 +11,6 @@ Here's a clickable link: [My favorite AI assistant](https://chat.openai.com/)
 Images look like links except with an exclamation directly in front
 
 
-
 ## Reminders
 
 Use a dash space for unordered lists
